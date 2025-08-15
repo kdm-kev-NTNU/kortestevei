@@ -17,6 +17,8 @@ Dette prosjektet implementerer en løsning for korteste-vei problemet ved bruk a
   - **Noder**: Inneholder koordinater for hver node (nodenummer, breddegrad, lengdegrad).
   - **Kanter**: Definerer forbindelser mellom noder med vekting (kjøretid, lengde, fartsgrense).
   - **Interessepunkter**: Node-ID og kategorier (f.eks. ladestasjoner, restauranter).
+ 
+  - For å laste ned Noder og Kanter trykk på lenken her: https://www.idi.ntnu.no/emner/idatt2101/Astjerne/opg/norden/noder.txt og https://www.idi.ntnu.no/emner/idatt2101/Astjerne/opg/norden/kanter.txt
 
 ## Implementasjonsdetaljer
 
@@ -56,4 +58,5 @@ For å vise ruter, eksporter nodekoordinater og bruk:
 ## Bidragsytere
 
 Prosjektet er utviklet som en del av kurset Algoritmer og Datastrukturer ved NTNU.
+
 
